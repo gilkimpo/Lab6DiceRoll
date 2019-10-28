@@ -1,0 +1,11 @@
+C:\Users\gilki\source\repos\Lab6RollTheDice\Lab6RollTheDice\bin\Debug\netcoreapp3.0\Lab6RollTheDice.exe
+C:\Users\gilki\source\repos\Lab6RollTheDice\Lab6RollTheDice\bin\Debug\netcoreapp3.0\Lab6RollTheDice.deps.json
+C:\Users\gilki\source\repos\Lab6RollTheDice\Lab6RollTheDice\bin\Debug\netcoreapp3.0\Lab6RollTheDice.runtimeconfig.json
+C:\Users\gilki\source\repos\Lab6RollTheDice\Lab6RollTheDice\bin\Debug\netcoreapp3.0\Lab6RollTheDice.runtimeconfig.dev.json
+C:\Users\gilki\source\repos\Lab6RollTheDice\Lab6RollTheDice\bin\Debug\netcoreapp3.0\Lab6RollTheDice.dll
+C:\Users\gilki\source\repos\Lab6RollTheDice\Lab6RollTheDice\bin\Debug\netcoreapp3.0\Lab6RollTheDice.pdb
+C:\Users\gilki\source\repos\Lab6RollTheDice\Lab6RollTheDice\obj\Debug\netcoreapp3.0\Lab6RollTheDice.csprojAssemblyReference.cache
+C:\Users\gilki\source\repos\Lab6RollTheDice\Lab6RollTheDice\obj\Debug\netcoreapp3.0\Lab6RollTheDice.AssemblyInfoInputs.cache
+C:\Users\gilki\source\repos\Lab6RollTheDice\Lab6RollTheDice\obj\Debug\netcoreapp3.0\Lab6RollTheDice.AssemblyInfo.cs
+C:\Users\gilki\source\repos\Lab6RollTheDice\Lab6RollTheDice\obj\Debug\netcoreapp3.0\Lab6RollTheDice.dll
+C:\Users\gilki\source\repos\Lab6RollTheDice\Lab6RollTheDice\obj\Debug\netcoreapp3.0\Lab6RollTheDice.pdb
